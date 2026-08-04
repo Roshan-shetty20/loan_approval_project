@@ -8,7 +8,7 @@ The application predicts whether a loan application is likely to be **Approved**
 
 ## 🚀 Live Demo
 
-**Live Application:** https://your-render-url.onrender.com
+**Live Application:** https://smartloan-ai-003l.onrender.com
 
 ---
 
